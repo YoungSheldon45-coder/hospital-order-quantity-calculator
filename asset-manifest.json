@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hospital-order-quantity-calculator/static/css/main.1be1899d.css",
+    "main.js": "/hospital-order-quantity-calculator/static/js/main.ba9b699f.js",
+    "static/js/239.f8707d91.chunk.js": "/hospital-order-quantity-calculator/static/js/239.f8707d91.chunk.js",
+    "static/js/213.28e6a0d1.chunk.js": "/hospital-order-quantity-calculator/static/js/213.28e6a0d1.chunk.js",
+    "static/js/732.06a2176e.chunk.js": "/hospital-order-quantity-calculator/static/js/732.06a2176e.chunk.js",
+    "index.html": "/hospital-order-quantity-calculator/index.html",
+    "main.1be1899d.css.map": "/hospital-order-quantity-calculator/static/css/main.1be1899d.css.map",
+    "main.ba9b699f.js.map": "/hospital-order-quantity-calculator/static/js/main.ba9b699f.js.map",
+    "239.f8707d91.chunk.js.map": "/hospital-order-quantity-calculator/static/js/239.f8707d91.chunk.js.map",
+    "213.28e6a0d1.chunk.js.map": "/hospital-order-quantity-calculator/static/js/213.28e6a0d1.chunk.js.map",
+    "732.06a2176e.chunk.js.map": "/hospital-order-quantity-calculator/static/js/732.06a2176e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be1899d.css",
+    "static/js/main.ba9b699f.js"
+  ]
+}
